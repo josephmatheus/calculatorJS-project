@@ -67,9 +67,9 @@ div.calculadora {
 
 p#res {
     background-color: white;
-    width: 210px;
+    width: 208px;
     height: 35px;
-    margin: 5px;
+    margin: 10px 0px 30px 6px;
     font-size: 20px;
     color: rgb(0, 0, 0, 0.790);
     text-align: right;
