@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(114, 22, 22);
+}
+
+div.fundo {
+    height: 100%;
+    color: white;
+    font: normal 16px Arial;
+}
+
+div.calculadora {
+    position: absolute;
+    background-color: black;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 15px;
+    padding: 20px;
+}
